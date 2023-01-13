@@ -1,0 +1,58 @@
+default:
+    timestamp: 1673571276533
+    metadata: {}
+    asa:
+        minimumASA:
+            creator: 5IO64R3KOSRZU6PWRTA5C2ABSONFJAS6VDVZ6QJMWXWWBBAW2R2BJ22D2M
+            txId: 4ERJFQRPZOOYZ7RJGZN24CLEWDY3OVRCWHQKP5VMFFZWLGK5H32A
+            assetIndex: 45
+            confirmedRound: 10570
+            assetDef:
+                total: 1
+                decimals: 0
+                unitName: unitName
+                manager: null
+                reserve: null
+                freeze: null
+                clawback: null
+                defaultFrozen: false
+                name: minimumASA
+            deleted: false
+        minimumASA1:
+            creator: 5IO64R3KOSRZU6PWRTA5C2ABSONFJAS6VDVZ6QJMWXWWBBAW2R2BJ22D2M
+            txId: GKAKMOZTE25LTC2TCRMYCU2MFDSJ2SMUPT4ADCAZC2GEOUDBVESQ
+            assetIndex: 46
+            confirmedRound: 10572
+            assetDef:
+                total: 1
+                decimals: 0
+                unitName: unitName
+                manager: null
+                reserve: null
+                freeze: null
+                clawback: null
+                defaultFrozen: false
+                name: minimumASA1
+            deleted: false
+        allFieldASA:
+            creator: 5IO64R3KOSRZU6PWRTA5C2ABSONFJAS6VDVZ6QJMWXWWBBAW2R2BJ22D2M
+            txId: GTSB5YNTZD4GOB6SHTD3VIGA72NCTJEU4NND5AGEPJVKGKZS623A
+            assetIndex: 47
+            confirmedRound: 10574
+            assetDef:
+                total: 1
+                decimals: 0
+                defaultFrozen: true
+                unitName: unitName
+                url: url
+                metadataHash: "12312442142141241244444411111133"
+                note: note
+                noteb64: noteb64
+                manager: WWYNX3TKQYVEREVSW6QQP3SXSFOCE3SKUSEIVJ7YAGUPEACNI5UGI4DZCE
+                reserve: WWYNX3TKQYVEREVSW6QQP3SXSFOCE3SKUSEIVJ7YAGUPEACNI5UGI4DZCE
+                freeze: WWYNX3TKQYVEREVSW6QQP3SXSFOCE3SKUSEIVJ7YAGUPEACNI5UGI4DZCE
+                clawback: WWYNX3TKQYVEREVSW6QQP3SXSFOCE3SKUSEIVJ7YAGUPEACNI5UGI4DZCE
+                name: allFieldASA
+            deleted: false
+    ssc: {}
+    dLsig: {}
