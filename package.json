@@ -1,0 +1,14 @@
+{
+  "name": "algo-setup-algob",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/rilmubarak/algo-setup-algob.git",
+  "author": "rilmubarak <mubaraqhere@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@algo-builder/algob": "3.2.0"
+  },
+  "devDependencies": {
+    "chai": "^4.3.7"
+  }
+}
